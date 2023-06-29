@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 3vh;
+    margin-bottom: 10vh;
+    font-weight: 600;
+    font-size: 1.5vw;
+  }
+  
+  .form-group {
+    margin-bottom: 3vh;
+    margin-left: 5%;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-group button {
+    margin-top: 4vh;
+    width: 95%;
+    height: 5vh;
+    background-color:rgba(80, 71, 71, 0.1);
+    border: none;
+    color: #000000;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.3s;
+  }
+  
+  .form-group button:hover {
+    background-color: #665ad3;
+    color: #fff;
+  }
+  
+  .form-group p {
+    text-align: center;
+  }
+  
+  .form-group a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+/* 고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김고경명 잘생김 */
